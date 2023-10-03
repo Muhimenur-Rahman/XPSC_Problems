@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/muhimenurrahman/Desktop/Phitron/XPSC/Week_01/output/A_Wet_Shark_and_Odd_and_Even'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CD0, symSize: 0x1F8 }
+  - { offsetInCU: 0xB44, offset: 0xB44, size: 0x8, addend: 0x0, symName: __ZNSt3__13minB7v160006IiEERKT_S3_S3_, symObjAddr: 0x1F8, symBinAddr: 0x100003EC8, symSize: 0x2C }
+  - { offsetInCU: 0xB87, offset: 0xB87, size: 0x8, addend: 0x0, symName: __ZNSt3__13minB7v160006IiNS_6__lessIiiEEEERKT_S5_S5_T0_, symObjAddr: 0x224, symBinAddr: 0x100003EF4, symSize: 0x54 }
+  - { offsetInCU: 0x2F44, offset: 0x2F44, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003CD0, symSize: 0x1F8 }
+  - { offsetInCU: 0x2FEF, offset: 0x2FEF, size: 0x8, addend: 0x0, symName: __ZNKSt3__16__lessIiiEclB7v160006ERKiS3_, symObjAddr: 0x278, symBinAddr: 0x100003F48, symSize: 0x34 }
+...
